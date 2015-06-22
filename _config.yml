@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://ii.github.io
+title: humans sharing technology
+subtitle: i+i=ii
+author: Hippie Hacker
 simple_search: https://www.google.com/search
-description:
+description: each 'i' is an individual, when we get together and share, we get ii which is more than the sum of i+i
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: chris@hippiehacker.org
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -63,14 +63,17 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 #   3rd Party Settings    #
 # ----------------------- #
 
-# Github repositories
-github_user:
-github_repo_count: 0
+github_user: ii
+github_repo_count: 5
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: hippiehacker
+twitter_tweet_count: 4
+twitter_show_replies: false
+twitter_follow_button: true
+twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
@@ -79,7 +82,7 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+#googleplus_user: 110226300113284304422
 googleplus_hidden: false
 
 # Pinboard
@@ -91,8 +94,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: hippiehacker
+disqus_show_comment_count: count
 
 # Google Analytics
 google_analytics_tracking_id:
