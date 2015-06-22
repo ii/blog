@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Humanity to Everyone - htoe.org"
+date: 2012-07-31 10:32:57 -0600
+comments: true
+categories: 
+---
+
+
+[![](http://3.bp.blogspot.com/-yfjh7l666iU/UBhQf2MQdbI/AAAAAAAAAKQ/_YdH0iqaxhg/s400/Humanity+To+Everyone.png)](http://3.bp.blogspot.com/-yfjh7l666iU/UBhQf2MQdbI/AAAAAAAAAKQ/_YdH0iqaxhg/s1600/Humanity+To+Everyone.png)
+
+I've learned a bit about generosity and sharing in my travels.  People in many countries have shared with me even though they had nothing and did so with generous hearts.  
+
+I had a chance to spend a few months with six local youth in Battambang, Cambodia. There are few computers there, most in internet Cafes running old versions of Microsoft Windows. Some of these include Khmer (the language of Cambodia), but often an outdated interface that is on it's way out. I taught these kids some of the basics of creating a USB stick that they could use as an alternative to windows. These new USB sticks included everything to use the internet, create and store documents, photos, and programs in their native language.  
+
+One of the most important parts of this training, was teaching them how to share not only what they had learned, but sharing the software as well. Since we were not using Microsoft Windows or Apple OS, but Ubuntu Linux, it is perfectly legal to and encouraged sharing.  
+
+These six kids continue to get together and share and learn from each other, and have now grown to about thirty. They even have their own website at called [Humanity to Everyone](http://htoe.org/) where they discuss technology in Khmer.  
+
+They have really inspired me to try and take this idea of sharing software and training on usb to another level. Not just sharing general computing software, but the complex configurations needed to **deploy a small hospital/clinic, small business, or community library without having to be a technical person**. I'm calling it Instant Infrastructure, or :ii for short.  
+
+The technology is free, and sharing is encouraged. I hope to take this new technology back to my friends in Battambang and teach others to do the same in countries all over the world.
